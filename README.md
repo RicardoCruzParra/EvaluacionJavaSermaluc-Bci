@@ -212,6 +212,17 @@ Casos cubiertos:
 - Correo duplicado
 - Password inválida
 - JSON mal formado
+  
+---
+
+## 📥 Clonar el repositorio
+
+```bash
+git clone https://github.com/RicardoCruzParra/EvaluacionJavaSermaluc-Bci.git
+cd EvaluacionJavaSermaluc-Bci
+```
+(Ingresar a la carpeta donde se encuentra el pom.xml)
+
 ---
 
 ## 🧩 Diagrama de la solución
